@@ -32,7 +32,7 @@ const Navbar = () => {
 
         {/* Desktop Menu */}
         <ul className="hidden md:flex space-x-8">
-          {['home', 'about', 'skills', 'projects', 'contact'].map((item) => (
+          {['home', 'about', 'skills', 'projects', 'cv', 'contact'].map((item) => (
             <li key={item}>
               <a
                 href={`#${item}`}
@@ -89,7 +89,7 @@ const Navbar = () => {
       {mobileMenuOpen && (
         <div className="md:hidden absolute top-full left-0 w-full bg-background/95 backdrop-blur-sm border-b border-border p-4 shadow-lg">
           <ul className="space-y-4">
-            {['home', 'about', 'skills', 'projects', 'contact'].map((item) => (
+            {['home', 'about', 'skills', 'projects', 'cv', 'contact'].map((item) => (
               <li key={item}>
                 <a
                   href={`#${item}`}

@@ -86,8 +86,8 @@ const Projects = () => {
     },
     {
       id: 6,
-      title: 'QA – Evaluación Funcional en FARMAR',
-      description: 'Proyecto desarrollado en el año 2025 dentro de la empresa FARMAR. Se centró en la evaluación funcional de la plataforma e-commerce con el objetivo de asegurar la calidad del producto mediante la planificación y documentación de casos de prueba. Entre las actividades realizadas: análisis exhaustivo de funcionalidades, diagramas de user flow en Draw.io, redacción de pruebas para registro, login (manual y Google), navegación, favoritos, procesos de compra y métodos de entrega. También se diseñaron escenarios contemplando errores comunes y se trabajó en equipo bajo metodología ágil Scrum utilizando Azure DevOps.',
+      title: 'QA – Evaluación Funcional de FARMAR',
+      description: 'Proyecto desarrollado en el año 2025 dentro de la empresa Desarrollos NEA. Estuve encargada de la evaluación funcional de la plataforma e-commerce con el objetivo de asegurar la calidad del producto mediante la planificación y documentación de casos de prueba. Entre las actividades realizadas: análisis exhaustivo de funcionalidades, diagramas de user flow en Draw.io, redacción de pruebas para registro, login (manual y Google), navegación, favoritos, procesos de compra y métodos de entrega. También se diseñaron escenarios contemplando errores comunes y se trabajó en equipo bajo metodología ágil Scrum utilizando Azure DevOps.',
       technologies: ['Scrum', 'Azure DevOps', 'Draw.io', 'Testing'],
       image: image4, // Usando image4.png para el proyecto de QA
       demoLink: 'https://www.farmar.com.ar/',
